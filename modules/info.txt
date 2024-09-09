@@ -1,0 +1,1 @@
+twisted/none/any|sqlalchemy/none/any|seaborn/none/any|requests/certifi#charset-normalizer#idna#urllib3/any|pytest/none/any|pyjokes/none/any|plyer/none/any|pillow/none/both|numpy/none/both|ntlk/none/any|kivymd/numpy#pillow/both|keras/none/any|jupyter/none/any|cython/none/any|beautifulsoup/none/any
