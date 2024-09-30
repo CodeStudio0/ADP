@@ -8,8 +8,8 @@ This app has the capability to test and deploy your Python Kivy and Pygame proje
 - Users don't have to wait for 1 hour for the app to get build and then test it again.
 - Built-in code editor and Project upload (Import ZIP) facility.
 
-# Youtube 
+# Youtube Tutorial
 https://youtu.be/n_euQbq9PqE?si=bT7O3iCmNump7pKD
 
 # Telegram Group
-https://t.me/+f-ILHV7YX8YyYjI1
+https://t.me/andropython
