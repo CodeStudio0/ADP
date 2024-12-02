@@ -17,7 +17,7 @@
 	    "mysql":{"deps":"none","aarch":"any"}
 	},
 	"secondary":{
-	    "opencv":{"deps":"numpy","aarch":"both"},
+	    "opencv":{"deps":"numpy","aarch":"both","libs":""},
 	    "matplotlib":{"deps":"numpy,pillow","aarch":"both"}
 	}
 }
