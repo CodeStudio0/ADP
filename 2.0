@@ -8,6 +8,7 @@
 	    "ntlk":{"deps":"none","aarch":"any"},
 	    "plyer":{"deps":"none","aarch":"any"},
 	    "pyjokes":{"deps":"none","aarch":"any"},
+            "requests":{"deps":"none","aarch":"any"},
 	    "pytest":{"deps":"none","aarch":"any"},
 	    "seaborn":{"deps":"none","aarch":"any"},
 	    "sqlalchemy":{"deps":"none","aarch":"any"},
