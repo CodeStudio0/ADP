@@ -15,6 +15,7 @@
 	    "numpy":{"deps":"none","aarch":"both"},
 	    "kivymd":{"deps":"none","aarch":"both"},
 	    "pillow":{"deps":"none","aarch":"both"},
+            "PySDL2":{"deps":"none","aarch":"both"},
 	    "mysql":{"deps":"none","aarch":"any"}
 	},
 	"secondary":{
