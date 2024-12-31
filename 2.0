@@ -22,6 +22,6 @@
 	"secondary":{
 	    "opencv":{"deps":"numpy","aarch":"both","libs":""},
 	    "matplotlib":{"deps":"numpy,pillow","aarch":"both"},
-            "pandas":{"deps":"pytz","aarch":"both"}
+            "pandas":{"deps":"pytz,dateutil","aarch":"both"}
 	}
 }
