@@ -16,6 +16,7 @@
 	    "kivymd":{"deps":"none","aarch":"both"},
 	    "pillow":{"deps":"none","aarch":"both"},
 	    "mysql":{"deps":"none","aarch":"any"},
+            "dateutil":{"deps":"none","aarch":"any"},
             "pytz":{"deps":"none","aarch":"any"}
 	},
 	"secondary":{
