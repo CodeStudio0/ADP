@@ -15,11 +15,12 @@
 	    "numpy":{"deps":"none","aarch":"both"},
 	    "kivymd":{"deps":"none","aarch":"both"},
 	    "pillow":{"deps":"none","aarch":"both"},
-	    "mysql":{"deps":"none","aarch":"any"}
+	    "mysql":{"deps":"none","aarch":"any"},
+            "pytz":{"deps":"none","aarch":"any"}
 	},
 	"secondary":{
 	    "opencv":{"deps":"numpy","aarch":"both","libs":""},
 	    "matplotlib":{"deps":"numpy,pillow","aarch":"both"},
-            "pandas":{"deps":"none","aarch":"both"}
+            "pandas":{"deps":"pytz","aarch":"both"}
 	}
 }
