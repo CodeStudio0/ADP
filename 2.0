@@ -22,6 +22,7 @@
 	"secondary":{
 	    "opencv":{"deps":"numpy","aarch":"both","libs":""},
 	    "matplotlib":{"deps":"numpy,pillow","aarch":"both"},
-            "pandas":{"deps":"pytz,dateutil","aarch":"both"}
+	    "theano":{"deps":"numpy","aarch":"both"},
+            "pandas":{"deps":"pytz,dateutil,numpy","aarch":"both"}
 	}
 }
