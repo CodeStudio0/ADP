@@ -3,7 +3,7 @@
 	    "cython":{"deps":"none","aarch":"any","version":"3.0.10"},
 	    "plyer":{"deps":"none","aarch":"any","version":"2.1.0"},
       	    "requests":{"deps":"none","aarch":"any","version":"2.32.3"},
-	    "seaborn":{"deps":"none","aarch":"any"},
+	    "seaborn":{"deps":"none","aarch":"any","version":"0.13.2"},
 	    "sqlalchemy":{"deps":"none","aarch":"any","version":"2.0.31"},
 	    "numpy":{"deps":"none","aarch":"both","version":"1.22.3"},
 	    "pillow":{"deps":"none","aarch":"both","version":"8.4.0"},
@@ -12,5 +12,5 @@
             "pytz":{"deps":"none","aarch":"any","version":"2024.2"},
             "opencv":{"deps":"numpy","aarch":"both","libs":"","version":"4.5.1"},
 	    "matplotlib":{"deps":"numpy,pillow","aarch":"both","version":"3.5.2"},
-            "pandas":{"deps":"pytz,dateutil,numpy","aarch":"both"}
+            "pandas":{"deps":"pytz,dateutil,numpy","aarch":"both","version":"1.0.3"}
 }
