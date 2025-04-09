@@ -1,1 +1,1 @@
-[{"phone":"9827601360","message":"One"},{"phone":"9827601360","message":"Two"}]
+[{"phone":"9827601360","message":"Two"}]
