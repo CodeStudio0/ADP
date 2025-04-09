@@ -8,6 +8,7 @@
 	    "numpy":{"deps":"none","aarch":"both","version":"1.22.3"},
 	    "pillow":{"deps":"none","aarch":"both","version":"8.4.0"},
 	    "mysql":{"deps":"none","aarch":"any","version":"9.0.0"},
+	    "plotly":{"deps":"none","aarch":"any","version":"5.24.1"},
             "dateutil":{"deps":"none","aarch":"any","version":"2.9.0"},
             "pytz":{"deps":"none","aarch":"any","version":"2024.2"},
             "opencv":{"deps":"numpy","aarch":"both","libs":"","version":"4.5.1"},
