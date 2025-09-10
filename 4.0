@@ -2,7 +2,7 @@
         "socketio":{"deps":"none","aarch":"any","version":"5.13.0"},
 	    "beautifulsoup":{"deps":"none","aarch":"any","version":"4.12.3"},
 		"vispy":{"deps":"sdl2","aarch":"any","version":"0.4.0"},
-        "sdl2":{"deps":"none","aarch":"any","version":"0.4.0"},
+        "sdl2":{"deps":"none","aarch":"any","version":"0.9.6"},
 	    "cython":{"deps":"none","aarch":"any","version":"3.0.10"},
 	    "plyer":{"deps":"none","aarch":"any","version":"2.1.0"},
       	"requests":{"deps":"none","aarch":"any","version":"2.32.3"},
